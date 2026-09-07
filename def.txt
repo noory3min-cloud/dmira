@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 local & remote
+=======
+remote
+>>>>>>> c08da519ba39d4208ccfcf6ad5b49c29442d681e
